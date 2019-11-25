@@ -1,0 +1,1 @@
+C:\Users\imertzanidis\Exercism\kotlin\series\build\classes\kotlin\main\Series$slices$1.class;C:\Users\imertzanidis\Exercism\kotlin\series\build\classes\kotlin\main\Series.class
